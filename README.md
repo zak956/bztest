@@ -1,6 +1,8 @@
 This is a test task
 ========================
 
+see code in src/CarsBundle
+
 1) update Composer `composer install`  
 2) create app/config/parameters.yml with db settings  
 3) create database `php bin/console doctrine:database:create`  
